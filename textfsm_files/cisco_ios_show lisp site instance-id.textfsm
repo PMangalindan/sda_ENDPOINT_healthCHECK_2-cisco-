@@ -1,0 +1,11 @@
+Value model (.+)
+
+
+
+Start
+  ^NAME:\s+"Switch\s\d+",\sDESCR:\s"${model}" -> Record
+
+
+  
+	
+	

@@ -1,0 +1,21 @@
+CP_device_list=['cp1', 'cp2']
+FE_device_list=['fe1', 'fe2']
+-------------------- CP_1
+cp1_ip='192.168.15.235'
+
+-------------------- CP_2
+cp2_ip='192.168.15.236'
+
+-------------------- FE_1
+fe1_loopback0= '10.46.1.106'
+fe1_ip='192.168.15.240'
+-------------------- FE_2
+
+fe2_loopback0= '10.46.1.232'
+fe2_ip='192.168.15.241'
+
+---ssh creds---
+device_type='cisco_ios'
+username='admin'
+password='xxxxxx'
+secret=''

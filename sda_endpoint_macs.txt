@@ -1,0 +1,14 @@
+instance-id 4099:CORP
+mac1
+mac2
+000c.295f.72dz
+instance-id 4100:GTMM
+000c.29ea.021e
+000c.295f.72da
+0000.0c9f.f636
+000c.2938.93cc
+000c.295f.72da
+000c.29d9.9317
+instance-id 4103:GUEST
+000c.29cb.dbcf
+

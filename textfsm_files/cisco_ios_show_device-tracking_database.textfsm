@@ -1,0 +1,14 @@
+Value UP (\S+)
+Value FE (\d+.\d+.\d+.\d+:\d+)
+Value capture (\d+.\d+.\d+.\d+/32)
+
+
+
+
+Start
+  ^.+\s+${UP}\s+${FE}\s+\d+\s+${capture} -> Record
+
+
+  
+	
+	
